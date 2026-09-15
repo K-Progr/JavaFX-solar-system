@@ -53,12 +53,6 @@ an eight-branch switch and why most setup appears eight times with only names
 changed. A `Planet` class holding the circle, image, transition and flag, with a
 `Planet[]`, would collapse it into loops.
 
-It also produced two bugs the compiler couldn't catch: one planet loading
-another's image, and seven animations configuring the wrong transition object.
-Both copy-paste-and-rename failures — the failure mode that having eight of
-everything invites.
-
 ## Assets
 
-Planet textures and sound effects were generated procedurally for this project.
-
+Planet textures and sound effects were generated procedurally (By Opus 5) for this project.
